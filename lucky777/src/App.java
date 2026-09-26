@@ -45,7 +45,9 @@ public class App {
                 }
     }
         if(randomNumber ==7 &&rng1==7&&rng2==7){
+                            System.out.println("$$$$$$$");
                         System.out.println("Voitit! Rahasi on "+raha);
+                            System.out.println("$$$$$$$");
             } else {
                  System.out.println("Rahat loppui. Pelaa uudelleen?");
             }
