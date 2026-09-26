@@ -24,8 +24,9 @@ public class App {
                 scan.nextLine();
             raha--;
         while (!(randomNumber==7 &&rng1==7 &&rng2==7)&& raha >0){
-            System.out.println("****");
-        System.out.println("" + randomNumber+" "+ rng1+" " +rng2+ " Rahaa jäljellä "+ raha+ " Pelaa uudelleen painamalla ENTER"); 
+            System.out.println("******");
+        System.out.println("" + randomNumber+" "+ rng1+" " +rng2);
+        System.out.println("Rahaa jäljellä "+ raha+ " Pelaa uudelleen painamalla ENTER");
         scan.nextLine();
         
         rng1= rnga.nextInt(1, 11);
