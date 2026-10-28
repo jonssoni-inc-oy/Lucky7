@@ -18,8 +18,8 @@ public class App {
 
 
 
-
-              System.out.println("Syötä raha määrä pelataksesi");
+            System.out.println("Let's gamble!!!");
+            System.out.println("Syötä raha määrä pelataksesi");
                   raha=scan.nextInt();
                 scan.nextLine();
             raha--;
