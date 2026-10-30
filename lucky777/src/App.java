@@ -50,7 +50,7 @@ public class App {
                         System.out.println("Voitit! Rahasi on "+raha);
                             System.out.println("$$$$$$$");
             } else {
-                 System.out.println("Rahat loppui. Pelaa udelleen?");
+                 System.out.println("Rahat loppui. Pelaa uudelleen?");
             }
 
         scan.close();
